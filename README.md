@@ -4,6 +4,15 @@
 
 It listens to your Mac's system audio, shows the English transcript and Russian translation side by side, and keeps the audio and translation on your device. No API key or cloud service is required.
 
+## Install with Homebrew
+
+Alternatively, install and run it with Homebrew:
+
+```bash
+brew install policememos/tap/vo-tui
+vo-tui
+```
+
 ## Download and run
 
 1. On GitHub, click **Code → Download ZIP** and unpack the archive.
