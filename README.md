@@ -10,7 +10,7 @@ It listens to your Mac's system audio, shows the English transcript and Russian 
 
 ## 🍺 Have Homebrew?
 
-Install and run `vo-tui` with two command:
+Install and run `vo-tui` with three steps:
 
 1. Trust the vo dependency (required by Homebrew once)
 ```bash
