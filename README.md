@@ -14,7 +14,7 @@ Install and run `vo-tui` with three steps:
 
 1. Trust the vo dependency (required by Homebrew once)
 ```bash
-brew trust --formula k1low/tap/vo
+brew trust k1low/tap
 ```
 2. Install this tui
 ```bash
