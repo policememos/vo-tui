@@ -14,6 +14,8 @@ Install and run `vo-tui` with one command:
 
 ```bash
 brew install policememos/tap/vo-tui
+```
+```bash
 vo-tui
 ```
 
